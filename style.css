@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.header{
+    
+   color: aliceblue;
+   background-repeat: no-repeat;
+ text-align: center;
+   height: 100%;
+ 
+   background-position: center;
+   background-size: cover;
+
+ 
+ background-image: url(images/donation13.jpg);
+    
+}
+.header div{
+    
+    height: 600px;
+}
+.button{
+    background-image: linear-gradient(to right, rgb(238, 15, 15) , blue);
+    text-decoration: none;
+     color: aliceblue;
+     padding: 10px 30px;
+     border-radius: 99px;
+
+}
